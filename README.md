@@ -1,7 +1,7 @@
 # Notes de révisions pour le DNO
 
 # HOW TO USE:
-1. Téléchargez tous les fichiers de ce répertoire (en haut à droite en vert <Code>, sélectionnez "Download ZIP" tout en bas du menu).
+1. Téléchargez tous les fichiers de ce répertoire (en haut à droite en vert "<> Code", cliquez et sélectionnez "Download ZIP" tout en bas du menu).
 2. Décompressez le dossier en gardant le dossier "DNOtes" comme dossier parent.
 3. Téléchargez [Obsidian.md](https://obsidian.md/)
 4. Ouvrez Obsidian.md
