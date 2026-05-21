@@ -16,6 +16,7 @@ aliases:
 	* Oxygène = toxique pour les cellules, car [[Oxydation|oxydant]], forme des radicaux réactifs qui détruisent les [[Enzyme|enzymes]] et autres molécules cellulaires.
 	* Les souches sont adaptées aux types de vins, elles ne sont pas adaptées aux terroirs.
 	* On trouve les mêmes [[Souche|souches]] entre régions (transport par humain, oiseaux... cf. covid). En revanche dans chaque cuve on crée de nouvelles souches chaque vendanges.
+	* pH (proton qui viennent dans la membrane), température, éthanol (vient s’enchâsser dans la membrane aussi) viennent tous déstabiliser la membrane et fragiliser la cellule.
 * UE 5 :
 	* [[Écoulage]] : préparer un échantillon par cuve la veille et le goûter le lendemain matin pour l'avoir à température. On écoule quand il n'y a pas de gain de qualité deux jours de suite ou qu'il y a un goût de marc qui apparaît.
 	* [[Casse oxydasique]] : **irréversible**

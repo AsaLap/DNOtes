@@ -10,4 +10,4 @@ Les bactéries lactiques sont responsables de la transformation d'[[Acide maliqu
 
 Attention au [[Sucre|sucres]] résiduels car elles peuvent le transformer en [[Acide acétique|acide acétique]] et être responsable d'une [[Piqûre|piqûre acétique]].
 
-Les bactéries lactiques du [[Vin|vin]] sont les souches d'[[Oenococcus oeni]] qui sont [[Gram+]] (elle contiennent une couche importante de [[Peptidoglycanes|peptidoglycanes]] dans leur [[Paroi|paroi]]).
+Les bactéries lactiques du [[Vin|vin]] par excellence sont les souches d'[[Oenococcus oeni]] qui sont [[Gram+]] (elle contiennent une couche importante de [[Peptidoglycanes|peptidoglycanes]] dans leur [[Paroi|paroi]]). Elles seront donc sensibles au [[Lysozyme|lysozyme]].

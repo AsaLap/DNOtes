@@ -2,6 +2,7 @@
 aliases:
   - phospho transferase system
   - Phospho Transferase System
+  - PTS
 tags:
   - Physique-Chimie-Métabolisme
 ---

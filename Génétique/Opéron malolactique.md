@@ -2,7 +2,7 @@
 aliases:
   - opéron malolactique
 tags:
-  - Définition-Concept/Génétique
+  - Génétique
 ---
 [[Opéron]] présent chez les [[Oenococcus oeni|bactéries lactiques]] composé de la [[Malate perméase|malate perméase]], l'[[Enzyme malolactique|enzyme malolactique]] et d'un régulateur de transcription. 
 

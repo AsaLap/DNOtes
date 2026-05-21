@@ -2,7 +2,7 @@
 aliases:
   - plasmides
 tags:
-  - Définition-Concept/Génétique
+  - Génétique
 ---
 Molécule d'ADN distincte de l'ADN chromosomique, bicaténaire, capable de réplication autonome, non essentiel à la survie de la cellule, généralement circulaire et portant régulièrement des gènes de résistance aux antibiotiques. 
 

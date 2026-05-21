@@ -2,6 +2,7 @@
 aliases:
   - acide citrique
   - citrate
+  - Citrate
 tags:
   - Molécule/Acide
   - Œnologie/Produit-œnologique

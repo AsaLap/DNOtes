@@ -133,10 +133,19 @@ Suite de [[Stress|stress]] menant à la domination d'[[Oenococcus oeni|O. oeni]]
 		* disaccharides : [[Maltose|maltose]], [[Raffinose|raffinose]], [[Tréhalose|tréhalose]].
 		* [[Polysaccharide|polysaccharides]] : issues de [[Botrytis cinerea|Botrytis]] ou des [[Mannoprotéine|mannoprotéines]] des [[Levure|levures]].
 	* Toutes les [[Souche|souches]] consomment le [[Glucose|glucose]] en revanche pour les autres [[Sucre|sucres]] c'est variable et souvent à cause de la présence d'un [[Transporteur|transporteur]] spécifique ou non.
-	* Système PTS = énergétiquement avantageux : rentrée du [[Sucre|sucre]] à la deuxième étape de la [[Glycolyse|glycolyse]] et donc économie 1 [[Adénosine triphosphate|ATP]] : ![[transporteur_PTS.png]]
-		* L'équation bilan de [[Glycolyse|glycolyse]] avec entrée par [[PTS]] = 3 [[Adénosine triphosphate|ATP]] + 2 [[Acide lactique|lactate]] ([[Bactérie lactique|bactéries lactiques]] par [[Voie homofermentaire|voie homofermentaire]]).
+	* Système [[Phospho Transferase System]] = énergétiquement avantageux : rentrée du [[Sucre|sucre]] à la deuxième étape de la [[Glycolyse|glycolyse]] et donc économie 1 [[Adénosine triphosphate|ATP]] : ![[transporteur_PTS.png]]
+		* L'équation bilan de [[Glycolyse|glycolyse]] avec entrée par [[Phospho Transferase System]] = 3 [[Adénosine triphosphate|ATP]] + 2 [[Acide lactique|lactate]] ([[Bactérie lactique|bactéries lactiques]] par [[Voie homofermentaire|voie homofermentaire]]).
 	* le ribose : voie de la [[Voie de la phosphocétolase|phosphocétolase]] : $ribose + 2 ADP + 2 Pi \rightarrow lactacte + acétate + 2 ATP$. Il y a forcément production d'[[Acidité volatile|AV]].
 	* les sucres en général : ![[utilisation_sucres_bacteries.png]](Référence : Cibrario A., Peanne C., Lailheugue M., Campbell-Sills H., Dols-Lafargue M. (2016) Carbohydrate metabolism in Oenococcus oeni: A genomic insight. BMC Genomics 17: 984)
 		* [[Oenococcus oeni]] : 
 			* tous rejoignent la [[Voie hétérofermentaire|voie hétérofermentaire]]/[[Voie de la phosphocétolase|phosphocétolase]].
-			* certaines capables de fermenter le [[Fructose|fructose]] par [[Voie homofermentaire]] si entrée par [[PTS]].
+			* certaines capables de fermenter le [[Fructose|fructose]] par [[Voie homofermentaire|voie homofermentaire]] si entrée par [[Phospho Transferase System|phospho transferase system]].
+* [[Acide citrique|Citrate]] : 
+	* dégradation via l'[[Opéron citrate lyase|opéron citrate lyase]] pour l'[[Acide citrique|acide citrique]].
+		* entrée dans la cellule par la [[Citrate perméase|citrate perméase]]
+		* dégradation du [[Acide citrique|citrate]] en [[Oxaloacétate|oxaloacétate]] par la [[Citrate lyase|citrate lyase]] (dégagement d'un [[Acide acétique|acide acétique]] ou [[Acide acétique|acétate]])
+		* 
+* Bilan voies de dégradation chez O. oeni :
+	* [[Fermentation malo-lactique|FML]] pour l'[[Acide malique|acide malique]].
+	* [[Voie hétérofermentaire]] avec la voie de la [[Voie de la phosphocétolase|phosphocétolase]] pour les [[Sucre|sucres]].
+	* La voie créée par l'[[Opéron citrate lyase|opéron citrate lyase]] pour l'[[Acide citrique|acide citrique]].

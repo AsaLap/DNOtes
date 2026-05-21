@@ -5,6 +5,6 @@ aliases:
 tags:
   - Physique-Chimie-Métabolisme/Pathway
 ---
-Voie de dégradation des sucres chez les [[Bactérie lactique|bactéries lactiques]].
+Voie de dégradation des sucres chez les [[Bactérie lactique|bactéries lactiques]] homofermentaires ([[Lactobacillus plantarum]].
 
 Voie homofermentaire : ![[homofermentaire.png]]

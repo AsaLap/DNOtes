@@ -4,8 +4,9 @@ tags:
 # Composés
 ## Principaux
 [[Éthanol]] dans le vin : 100g.L<sup>-1</sup> (80g.L<sup>-1</sup> pour 10% alcool).
-[[Glycérol]]
+[[Glycérol]] 6 à 20g.L<sup>-1</sup>.
 [[Acide malique]] : 1 à 7 g.L<sup>-1</sup>
+[[Acide citrique]] : 0,1 à 0,3g.L<sup>-1</sup> (+ si pourriture)
 ## Odorants et dérivés
 [[Éthanal]]
 [[Diacétyle]]

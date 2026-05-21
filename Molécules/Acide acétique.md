@@ -2,6 +2,7 @@
 aliases:
   - acide acétique
   - vinaigre
+  - acétate
 tags:
   - Molécule/Acide
   - Odeur-Arôme

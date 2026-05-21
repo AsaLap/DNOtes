@@ -1,6 +1,7 @@
 ---
 aliases:
   - Polygalacturonase
+  - PG
 tags:
   - Physique-Chimie-Métabolisme/Enzyme
 ---
