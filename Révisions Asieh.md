@@ -1,0 +1,41 @@
+- OK - Feuilles adultes en haut ou en bas
+- OK - Parenchyme palissadique
+- OK - Chlorose
+- OK - Greffage sur table
+- OK - Dépérissement
+- OK - Chétif
+- Poids de bois de taille
+- collage
+- parc
+- bon bois
+- raboter
+- slide 21 Patrick Lucas
+- plan ecophyto
+- OK - génotype
+- OK - phénotype
+- OK - polymorphisme
+- OK - Allèle
+- OK - Homozygote/hétérozygote
+- OK - Terpène synthase pourquoi + de gènes
+- Port érigé
+- Pratique SME (cours 3.2)
+- rédhibitoire
+- en l'occurence
+- UE 2.4 seq 7 11/03/2026
+	- contre-bourgeon (dédoublage VS échardage/écoeurage)
+	- faire passer les troupes
+	- déplumer
+	- adventices
+	- prestataire
+	- prophyllaxie
+	- SECV/kg
+	- placette VS chambrée/piquetée
+	- calendrier du chef de viticulture 
+- UE 2.2 11/03/2026
+	- introgression
+- UE 2.2 11/03/2026
+	- chimère
+	- aoûtement
+	- cale (de soudure)
+- AirPulse
+- liquide intersticiel

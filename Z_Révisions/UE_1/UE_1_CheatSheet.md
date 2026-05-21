@@ -1,0 +1,278 @@
+Thierry Devaud : pédologie
+	- Sol (pour la plante) :
+		- ancrage
+		- fonctionnement des racines et pérennité de la plante
+		- alimentation hydrique
+		- alimentation minérale (N, K, P, Ca, Mg...)
+	- Sol (général) :
+		- fonction alimentaire (récoltes)
+		- fonction écologique (héberger un écosystème)
+		- fonction filtre et stockage (carbone, eau...)
+		- fonction matériau
+			- construction (graviers, argiles)
+			- énergétique (tourbes...)
+	- Sol des agronomes : partie arable = travaillée
+		- superficiel et homogénéisé
+		- 0 à 30 cm
+	- Sol des pédologues : 
+		- partie arable n'est que la couche superficielle
+		- sol = couche formée **au dessus de la roche**
+		- formation naturelle de surface meuble, résultant de la transformation de la roche-mère sous-jacente, sous l'influence des processus physiques, chimiques et biologiques (Larousse)
+	- Définition de l'AFES (Association Française pour l'Étude du Sol) : le sol est un **volume** qui s'étend depuis la surface de la Terre jusqu'à une profondeur marquée par l'apparition d'une roche dure ou meuble, peu altérée, ou peu marquée par la [[Pédogenèse|pédogenèse]]. *"L'épaisseur du sol peut varier de quelques centimètres à quelques dizaines de mètre, ou plus. [...] Il comporte le plus souvent plusieurs horizons correspondant à une organisation des constituants organiques et/ou minéraux (la terre). Cette organisation est le résultat de la pédogenèse et de l'altération du matériau parental. Il est le lieu d'une intense activité biologique (racines, faune et micro-organismes)."*
+	- [[Pédogenèse]] : 
+		- 1. décomposition de la roche
+			- mécanique - gel/dégel, températures extrêmes
+			- chimique - dissolution, hydrolyse
+		- 2. enrichissement en matière organique
+			- mousse = végétaux pionniers
+			- installation et action d'organismes vivants (bactéries, champignons, micro-arthropodes, vers de terre, racines de plantes...)
+			- décomposition des végétaux et animaux par micro-organismes et formation d'[[Humus|humus]]
+		- 3. formation d'autres horizons
+	- Composition d'un sol - 3 fractions : (variables selon sol et période)
+		- **solide** : éléments minéraux (sables, limons, argiles, cailloux, oxydes de fer ... = provenant de la désagrégation de la roche mère), éléments organiques (dégradation végétaux, animaux, apports humains...)
+		- **liquide** (ou solution du sol) : eau + substances dissoutes (sels minéraux provenant de la couche solide ou de la décomposition de la matière organique, apports de l'Homme)
+		- **gazeuse** (ou atmosphère du sol) : air + gaz de la décomposition de la matière organique
+	- Les constituants minéraux :
+		- sables : grossiers ou fins
+		- [[Limon]] = éléments très fins et réactions chimiques facilités : transformation en sels minéraux absorbables par les plantes = fertiles.
+		- [[Argile]] = minuscules plaquettes
+	- La matière organique fraîche : 
+		- les molécules utilisables par les organismes du sol (sucres, protéines...), vont disparaître rapidement et libèrent des matière minérales : création de chaleur et libération de CO2, eau, sels minéraux. 
+		- Une autre catégorie d'éléments difficilement dégradables (lignine, cellulose, résine, acide gras...) va être dégradé par des bactéries et polymérisé en très grosses molécules appelées acides humiques. Ces molécules vont contribuer à la formation de l'[[Humus|humus]], c'est l'[[Humification|humification]]. 
+	- Structure du sol dépend de la composition, le sol peut-être : entassé, agrégé (avec ou sans espace), collé (avec ciment) :
+		- structure **particulaire** (ou élémentaire) : sables ou graves, particules les unes sur les autres
+		- structure **compacte** (ou continue) : éléments noyés, collés par masse d'un seul bloc = argile après saturation en eau.
+		- structure **fragmentaire** : particules en agrégats plus ou moins gros de tailles diverses. Circulation d'eau et d'air.
+			- structure grumeleuse = petits agrégats aux angles arrondis ("grumeaux") = terre meuble et souple non collante.
+	- [[Porosité]] = espace entre les particules du sol, permet à l'eau et l'air de circuler.
+	- [[Floculation]] : attention on veut un argile floculé donc les minéraux floculants sont importants pour éviter notamment les coulées de boue (Ca2+, Mg2+ bivalents, bonne floculation).
+	- Texture = proportion de sables, limons et argiles d'un sol
+	- Textures stables :
+		- argileuses avec CAH (complexe argilo-humique - acides humiques gris, grosse molécule qui combinent avec argile + azote) car forte protection via floculation facile par le Ca.
+		- sableuses (qui est aussi une structure) car pas de cohésion entre les particules (pas de cimentation)
+	- Textures instables :
+		- argileuses sans CAH (acides humiques bruns - plus acides, particules plus fines et moins d'azote, pas de complexe et floculation plus difficile car acide)
+		- limoneuses
+	- Sols peuvent être différenciés selon :
+		- texture
+		- structure
+		- profondeur
+		- propriétés
+	- Mais aussi selon les paramètres de la pédogenèse :
+		- roche
+		- climat
+		- topographie
+		- végétation
+	- Asphyxie = manque d'oxygène dans le sol (plus fréquents dans les sols à faible perméabilité, descente de l'eau par gravité plus lente).  L'asphyxie peut être causée par : 
+		- excès d'eau
+		- tassement (colmatage microporosités)
+		- formation d'une croûte de battance
+	- Sols perméables (peu sensibles à l'asphyxie) :
+		- texture grossière
+		- grumeleux (argile + humus + calcium = CAH stable)
+	- Sols imperméables (sensibles à l'asphyxie) :
+		- pauvres en argiles et humus mais riches en limons = battance
+		- argiles pauvres en humus et acides/sans Ca (CAH instable)
+		- tout sol sur une couche imperméable
+	- Point de ressuyage/capacité de rétention en eau : quantité d'eau totale du sol une fois l'eau excédante échappée par gravité.
+	- Point de flétrissement : teneur en eau restante dans le sol trop fortement retenue pour être absorbée par la plante.
+	- **Réserve utile** = la différence entre point de flétrissement et point de ressuyage (donc utilisable par la plante)
+	- RFU (réserve facilement utilisable) et RDU (réserve difficilement utilisable) : 2/3 - 1/3 sur sol argileux, 1/3 - 2/3 sur sol sableux.
+	- [[rdu_rfu_ru.png|Schéma des RU, RFU, RDU et des zones de confort de la vigne]]
+	- Porosité efficace : volume d'eau qui peut librement entrer ou sortir d'un sol ou d'une roche - mais forces physiques (frottement) et électrostatiques (eau polaire mais seulement impact si espace faible et sol chargé = uniquement argiles) = grossièrement macroporosité.
+	- Humus = 10 fois plus de rétention qu'argiles (remis en doute à la baisse en 2026), impact de l'humus en cas de sécheresse.
+		- vers dans l'humus créent des galeries verticales = évacuation de l'eau excédante, remplissage des réserves souterraines.
+		- mycorhizes facilitent l'absorption d'eau pas les plantes = augmentent la RFU.
+	- Installation de la parcelle et alimentation hydrique : 
+		- densité de plantation
+		- [[Greffon|cépage]] : vigueur, efficience d'utilisation de l'eau
+		- [[Porte-greffe|porte-greffe]] : capacité d'absorption de l'eau, efficience, résistance à la sécheresse
+		- sens d'orientation des rangs : exposition du feuillage (NS reçoit moins de soleil aux heures chaudes)
+	- Travaux viticoles et alimentation hydrique :
+		- désherbage chimique = sol nu = évaporation et érosion
+		- travail mécanique = augmente porosité donc infiltration, même si partie travaillée s'évapore plus vite. Attention travail du sol en pente : érosion facilitée
+		- enherbement : améliore filtration, freine ruissellement mais évapotranspiration L'herbe coupée cherche à repousser = perte d'eau. Si couchée (protection du sol contre les rayons du soleil (moins d'évaporation)) ou montée en grain : moins de perte
+		- matière organique = augmentation rétention (cf. humus) + vie du sol = meilleure infiltration eau
+		- surface foliaire
+		- entassement du feuillage (photosynthèse pas efficace mais consommation d'eau)
+		- rendement : raisins consomment beaucoup d'eau pendant leur croissance
+	- Agroforesterie
+	- Minéraux majoritaires :
+		- N, K et Ca (pls dizaines de kg/ha/an)
+		- P, Mg, S (qq kg/Ha/an)
+	- Minéralisation de la matière organique (0,4 à 2% /an) = transformation de la matière organique en minéraux par digestion par organismes (bactéries, champignons...) :
+		- dépend du pH (bactéries fonctionnent pas en milieu acide)
+		- aération : argile va donc freiner minéralisation
+		- calcaire : formation CAH par Ca2+ et protection de la minéralisation de l'humus
+	- [[Azote]] : 
+		- aide en période de sécheresse car plus de radicelles
+		- carence se manifeste par un vert pâle des feuilles - souvent via manque d'eau en été
+		- carence peut causer arrêt de croissance précoce mais peut être bon pour maturation précoce en revanche sensibilité à sécheresse augmentée
+		- excès va aussi être néfaste :
+			- retard des stades de croissance = mauvaise maturation
+			- + d'[[Acide malique|acide malique]]
+			- - de [[Sucre|sucres]] car concurrence avec croissance végétative
+			- entassement de la végétation : moins de dégradation d'acide malique, moins d'[[Anthocyane|anthocyane]] car moins de soleil
+			- vulnérabilité accrue des baies à [[Botrytis cinerea]]
+	- [[Molécules/Potassium]] : nécessaire pour formation et maturation des raisins. 
+		- carence :
+			- chute prématurée des feuilles
+			- arrêt de maturation des grappes - acidité excessive et faible teneur en sucre
+			- très mauvais aoûtement
+		- surplus :
+			- acidité insuffisante dans les moûts
+	- [[Calcium]] : nécessaire notamment pour des questions osmotiques
+		- présent sous forme de sels dissous (calcaire actif)
+		- fixé sur les colloïdes et le [[Complexe argilo-humique|complexe argilo-humique]]
+		- rôle notamment sur pH et donc absorption et toxicité des autres minéraux (Al, Mg...)
+		- Excès va provoquer mauvaise absorption du fer et donc chlorose ferrique
+	- [[Magnésium]] : composant de la chlorophylle donc nécessaire pour activité photosynthétique. Sinon également rôle osmotique et constituant des parois (comme [[Calcium|Ca]]).
+		- carence : chute de feuilles, baisse sucres et rendement
+	- Alimentation minérale dépend de :
+		- géologie (nature des roches)
+		- humains (entretien du sol et amendement, fertilisation)
+		- pédologique (teneur en MO, CEC, pH et calcaire)
+	- [[CAH_cation.png|Schéma du CAH et des cations associés]]
+	- pH : Ca2+ = alcalinisation, Al3+ et H+ = acidification.
+		- modification activité être vivants
+		- acidité diminue quantité de bases échangeables et donc capacité nutritive du sol
+		- influence assimilabilité des ions : ceux absorbables en grande quantité = plutôt en milieu alcalin (N, P, K, Ca...) et oligoélément plutôt acide (Fe, Cu)
+		- vigne va pousser entre 6,5 et 7,5 (en dessous phytotoxicité de certains métaux (Cu, Mg, Al) et au dessus chlorose ferrique)
+	- Régulation de l'alimentation en eau dépend du sol : texture (composition minérale), nature de l'argile, profondeur du sol exploitée/exploitable par les racines. Également impact roche-mère.
+	- Impact de la roche-mère : perméabilité, pénétrabilité (dures ou meuble), libération de sels minéraux.
+	- Roches : 3 catégories : 
+		- roches **éruptives** (formées par refroidissement du magma)
+			- granite
+			- basalte
+			- pouzzolane
+		- roches **sédimentaires** (accumulation de débris)
+			- calcaires
+			- graves
+			- marnes
+		- roches **métamorphiques** (transformation des autres roches par mouvements de l'écorce terrestre)
+			- marbre
+			- schistes
+			- micaschistes
+	- Sédimentaires :
+		- Calcaires (Champagne, Bourgogne, St-Émilion...)
+			- bonne régulation hydrique
+			- attention adaptation PG
+		- Argileuses (marnes, molasses, argilites...) (Jura, Aube champenoise, Chablis, Pomerol)
+			- imperméables selon argile
+			- risque asphyxie racinaire (pénétrable)
+		- Siliceuses (dépôts sables ou graviers) (Graves du médoc, Châteauneuf-du-Pape, Cahors...)
+			- meubles
+			- pénétrables
+			- perméables
+			- faible rétention minéraux = faible fertilité
+		- Siliceuses (type grès) (Côtes de Provence...)
+			- silices cimentées
+			- imperméables
+			- dures et peu pénétrables
+			- faible rétention minéraux 
+	- Métamorphiques :
+		- schisteuses (Banyuls, Côte-Rôtie, nord de St-Chinian...)
+			- feuillets empilés, friables
+			- pénétrable entre les feuillets
+			- perméabilité selon dureté
+			- bonne régulation hydrique
+			- libère minéraux en fonction de friabilité
+	- Éruptives :
+		- granites et roches cristallines (Condrieu, Hermitage, Beaujolais à 50%...)
+			- dures et impénétrables par racines
+			- imperméables
+			- inaltérables (pas de libération de minéraux et plutôt sols acides du coup) = sols peu fertiles
+		- roches volcaniques (basaltes, scories...) (Lanzarote, Tokaji...)
+			- plus ou moins dures mais poreuses
+			- facilement pénétrables
+			- très perméables
+			- libère beaucoup de minéraux, sols très fertiles
+	- Roches = composés de minéraux, minéraux = constitués d'éléments chimiques.
+	- [[mineraux_croute_terrestre.png|Les principaux éléments chimiques composants la croûte terrestre]] OSiAlFeCaNaK + Mg
+	- Minéraux silicatés = 90% des minéraux des roches = Si + O en élément principal + autres.
+		- Quartz (silice pure)
+		- Feldspaths (bcp d'Al)
+		- Micas (feuillets)
+	- Roches sédimentaires : 
+		1. altération roche superficielles (érosion phase 1)
+		2. transport des particules (érosion phase 2)
+		3. sédimentation
+		4. [[Diagenèse|diagenèse]] = transformation sédiment en roche
+Philippe Darriet (Pourriture)
+	- Il suffit de 1% d'infection pour impacter sensoriellement la récolte.
+	- [[pourriture.png|Apparition de la pourriture selon conditions.]]
+	- Pourriture grise ou pourriture noble = le même champignon.
+	- **Pourriture grise** :
+		- humidité
+		- sur baies pas complètements mûres
+		- pellicule exclusivement
+		- sporulation (reproduction asexuée avec des spores)
+	- **Pourriture noble** :
+		- baie riche en sucre
+		- humidité est plutôt facteur limitant, ça freine son développement et donc colonisation doucement
+		- sur pellicule uniquement
+		- flétrissement/passerillage des baies
+	- [[Botrytis cinerea]] :
+		- Des champignons saprophytes peuvent s'associer : complexe de pourriture, pourritures secondaires
+		- Période propice à l'infection : 17-25°C, 90% humidité pendant 15-20h, raisin sucré et acide (= substrat pour champ.)
+		- Développement dans lamelle moyenne via enzyme pectolitique (pectinase)
+		- Oxydation enzymatique notamment la **laccase** -> permet la dégradation de la pellicule et donc la continuité du développement du champignon. Oxydation phénols du vin - perte de couleur.
+		- Micro-perforation crée environnement favorable pour continuité de l'infection.
+		- Conséquences :
+			- consommation de l'azote assimilable : attention à tester ce paramètre en cas de contamination.
+			- production de métabolites spécifiques : 
+				- acides : **[[Acide gluconique|acide gluconique]]** (> 0,5g.L<sup>-1</sup>), acide galacturonique, acide mucique (produits de dégradation du glucose, galactose... et sont donc des **marqueurs de la pourriture grise**).
+				- polyols : erythritol, arabitol, sorbitol, mannitol
+			- production composés volatils malodorants
+		- Composé à odeur fongique :
+			- [[Octénone|1-octen-3-one]] ou [[Octénone|octénone]]
+			- [[Géosmine|géosmine]] avec l'aide de [[Penicillium expansum]]
+			- [[combo_botrytis_penicillium.png|Schéma de la production de géosmine par Botrytis et Peniccillium]]
+	- Aspergillus sp : niger ou carbonarius : [[Ochratoxine|ochratoxine]] et [[Aflatoxine]].
+	- Penicillium : [[Penicillium expansum|expansum]] : [[Patuline]].
+	- Pourriture aigre/acide :
+		- bactéries : Gluconobacter sp., [[Acetobacter aceti]]
+			- [[Acide acétique|acide acétique]], [[Acétate d'éthyle|acétate d'éthyle]], [[Acide gluconique|acide gluconique]]
+		- levures oxydatives : Kloekera apiculata, [[Hanseniaspora uvarum]], Candida stellata...
+			- [[Acide acétique|acide acétique]] (plusieurs g.L<sup>-1</sup>), [[Acétate d'éthyle|acétate d'éthyle]]
+		- drosophiles pour pourriture aigre (melanogaster ou suzukii)
+	- L'oxydation complète du glucose est associée à la libération de [[Glycérol|glycérol]] dans la baie. Il n'y a de glycérol dans la baie que suite à une infection. Sinon c'est due à l'activité des levures dans le moût/vin. Ratio [[Glycérol|glycérol]]/[[Acide gluconique|acide gluconique]] est un marqueur de vendanges pour le sauternais.
+	- Molécules développés dans les moûts botrytisés :
+		- [[Phénylacétaldéhyde|phénylacétaldéhyde]]
+		- [[Furanone]] : 
+			- [[Furanéol|furanéol]]
+			- [[Homofuranéol|homofuranéol]]
+		- lactones :
+			- [[gamma-nonalactone]]
+			- [[delta-decalactone]]
+			- [[gamma-decalactone]]
+			- [[gamma-octalactone]]
+			- [[Massoia lactone]]
+			- [[2-nonen-4-olide]]
+		- Thiols volatils :
+			- [[3SH]]
+			- [[4M4SP]]
+			- [[3SP]]
+			- [[3SHp]]
+			- [[2M3SB]]
+			- Il y a une augmentation des précurseurs de [[Thiol|thiols volatils]] : S-conjugués de [[Cystéine|cystéine]] et [[Glutathion|glutathion]] : ce sont des formes de détoxification.
+				- pendant l'attaque le raisin produit des aldéhydes réactifs ([[Hexenal|hexenal]]) pour se protéger mais toxique à un certain niveau : conjugaison avec [[Glutathion|glutathion]] pour limiter la toxicité et ensuite transformation en S-conjugués de [[Cystéine|cystéine]].
+				- [[stress_botrytis_cinerea.png|Schéma de l'effet du stress provoqué par Botrytis cinerea sur les aldéhydes réactifs]]
+	- Plusieurs effets de [[Botrytis cinerea|B. cinerea]] :
+		- concentration liée au passerillage : [[Furanone|furanones]]
+		- effets du métabolisme du champignon : 
+			- [[Phénylacétaldéhyde|phénylacétaldéhyde]]
+			- [[Monoterpène|monoterpènes]] et [[Dérivés C13 norisoprénoïdes|dérivés C13 norisoprénoïdes]]
+		- effets éliciteurs du champignon sur le métabolisme du raisin : s-conjugués et [[Lactones|lactones]]
+	- [[bilan_botrytis_aromes.png|Bilan de l'effet de Botrytis sur les arômes du vin en cas de pourriture noble]]
+	- En cas de dégradation en [[Pourriture vulgaire|pourriture vulgaire]] :
+		- raisins :
+			- [[Dihydroxyacétone]] obtenue par oxydation du [[Glycérol|glycérol]]
+			- [[Acide gluconique|acide gluconique]] et [[Gluconolactone|gluconolactone]] formés par oxydation du [[Glucose|glucose]]
+			- [[5-oxofructose]] formé par oxydation du [[Fructose|fructose]]
+		- [[Fermentation alcoolique|FA]] :
+			- diminution de [[Dihydroxyacétone|dihydroxyacétone]]
+			- synthèse d'[[Éthanal|éthanal]], [[Pyruvate|acide pyruvique]] et d'[[Acide 2-oxoglutarique]]
+			- [[Gluconolactone|gluconolactone]], [[5-oxofructose]] et [[Acide gluconique|acide gluconique]] non modifiés lors de la [[Fermentation alcoolique|FA]]
+		- Augmentation combinaison de [[SO2]]
+		- Formation de composés malodorants ([[Octénol|1-octen-3-ol]], [[Octénone|1-octen-3-one]], [[MIB]], [[Géosmine|géosmine]])

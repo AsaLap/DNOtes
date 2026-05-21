@@ -1,0 +1,6 @@
+---
+aliases:
+  - obturateur
+tags:
+  - Œnologie
+---

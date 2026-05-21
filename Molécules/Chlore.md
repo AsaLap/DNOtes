@@ -1,0 +1,6 @@
+---
+aliases:
+  - chlore
+tags:
+  - Molécule
+---
